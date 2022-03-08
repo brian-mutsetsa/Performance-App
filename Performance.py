@@ -21,7 +21,7 @@ def check_password():
     if password == "":
         password_entry.delete(0, END)
         messagebox.showinfo("", "Blank not allowed")
-    elif password == "2001":
+    elif password == "0000":
         password_entry.delete(0, END)
         messagebox.showinfo("", "Login Success")
         start_window.destroy()
