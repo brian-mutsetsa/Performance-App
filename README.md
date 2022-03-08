@@ -5,3 +5,4 @@ This was made using the following python libraries:
 - Tkinter
 - Sqlite3
 - Matplotlib
+NOTE: Password = 0000
