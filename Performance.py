@@ -1655,7 +1655,7 @@ def general():
     shoe_sales_label = Label(general_window, text="How many items did you sell this week?: ", bg='#121212', fg='white', font=('Times New Roman bold', 15)).grid(row=2, column=0, padx=10, pady=10)
     hours_honing_label = Label(general_window, text="How many hours have you spent honing old & gaining new skills?: ", bg='#121212', fg='white', font=('Times New Roman bold', 15)).grid(row=3, column=0, padx=10, pady=10)
     financial_learning_label = Label(general_window, text="How many hours have you spent on financial education?: ", bg='#121212', fg='white', font=('Times New Roman bold', 15)).grid(row=4, column=0, padx=10, pady=10)
-    personal_projects_label = Label(general_window, text="Have you done and/or completed your own project, or a joint project with Tyde?\n(If you have no projects click \"NONE\") : ", bg='#121212', fg='white', font=('Times New Roman bold', 15), justify="left").grid(row=5, column=0, padx=10, pady=10)
+    personal_projects_label = Label(general_window, text="Have you done and/or completed your own project?(If you have no projects click \"NONE\") : ", bg='#121212', fg='white', font=('Times New Roman bold', 15), justify="left").grid(row=5, column=0, padx=10, pady=10)
     book_reading_label = Label(general_window, text="How many chapters of a book you are currently reading have you read(and understood) this week?: ", bg='#121212', fg='white', font=('Times New Roman bold', 15)).grid(row=6, column=0, padx=10, pady=10)
     financial_statement_label = Label(general_window, text="Have you drawn the financial statement for this week?: ", bg='#121212', fg='white', font=('Times New Roman bold', 15)).grid(row=7, column=0, padx=10, pady=10)
 
