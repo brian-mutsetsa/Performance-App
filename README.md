@@ -7,3 +7,5 @@ This was made using the following python libraries:
 - Matplotlib
 - ***NOTE: Password = 0000***
 
+The .exe files are in my release folder.
+Enjoy ;)
